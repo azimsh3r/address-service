@@ -48,7 +48,7 @@ To set up and run the Address Microservice:
 Contributions to the Address Microservice are welcome. Please fork the repository, make changes, and submit a pull request.
 
 #### Contact
-For any inquiries or support regarding the Address Microservice, please contact [insert contact information].
+For any inquiries or support regarding the Address Microservice, please contact azimjon.works@gmail.com.
 
 #### License
-This project is licensed under [insert license]. See the LICENSE file for more details.
+This project is licensed under MIT License. See the LICENSE file for more details.
